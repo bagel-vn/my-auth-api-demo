@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "api-auth-demo-executor",
+    "name": "api-auth-demo",
+    "region": "ap-southeast-1"
+  },
+  "api": {
+    "id": "y6m1yireja",
+    "module": "api"
+  }
+}
